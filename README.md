@@ -4,7 +4,7 @@ This is a Netflix Front Page Clone. All the data is coming from API. You can vie
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Screenshots of the App:
-
+![alt text](https://github.com/peeyush14goyal/Netflix-Clone-ReactJS/blob/master/screenshots/netflix1.PNG)
 
 ## Available Scripts
 
